@@ -1,5 +1,5 @@
 # EN.585.771.81.SP26:Assignment 1
-Repo for Biomedical Data Science SP 2026: Assignnment 1
+Repo for Biomedical Data Science SP 2026: Assignment 1  
 Name: Su Myint
 
 # Questions
